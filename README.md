@@ -18,5 +18,5 @@ Text
 
 ---
 
-* [Blog Entry 1](entries/entry01.md)
-* [Blog Entry 2](entries/entry02.md)
+* [Blog Entry 1](..entries/entry01.md)
+* [Blog Entry 2](..entries/entry02.md)
